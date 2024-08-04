@@ -1,0 +1,13 @@
+Different Number Patterns Program:
+
+Created the program and printed different simple number patterns by harnessing the power of loops to control their structures. 
+For this task, I selected the multiple number patterns and delved into developing a program that could generate this unique patterns flawlessly. By skillfully using loops to manage the pattern's intricate structure, the results were both fascinating and rewarding. 
+
+This program consists of different patterns as follows:
+1.Right Angle Triangle Pattern
+2.Inverted Right-Angle Triangle Pattern
+3.Pyramid Number Pattern
+4.Inverted Pyramid Number Pattern
+5.Diamond Number Pattern
+6.Palindromic Number Pattern
+7.Hollow Diamond Number Pattern

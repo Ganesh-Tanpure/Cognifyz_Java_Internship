@@ -1,0 +1,25 @@
+Task Manager 
+
+CRUD is an acronym that stands for Create, Read, Update, and Delete, and it represents the four fundamental operations that can be performed on data. 
+➡  Create: This operation involves adding new task records. 
+➡  Read: The Read operation allows you to retrieve and view data. 
+➡  Update: Updating involves modifying existing task. It allows you to change the task or description of a task.
+➡  Delete: The Delete operation is used to remove task. 
+
+
+ Features:
+1. Viewing all tasks.
+2. Adding new tasks.
+3. Searching tasks based on task no.
+4. Editing and saving tasks.
+5. Deleting tasks.
+
+
+
+
+
+
+
+
+
+
